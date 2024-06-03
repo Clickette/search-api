@@ -1,4 +1,4 @@
-![Clickette](https://clickette.net/u/zlp0e8.png)<br>
+![Clickette](https://clickette.net/assets-homepage/img/wordmark-color.svg)<br>
 
 ---
 ##### [CLICKETTE SEARCH API](https://github.com/Clickette/search-api) ・ GPL-3.0
